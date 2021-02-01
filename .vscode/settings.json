@@ -8,5 +8,7 @@
     "**/[Bb]in": true,
     "**/[Oo]bj": true
   },
-  "files.eol": "\n"
+  "files.eol": "\n",
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
 }
