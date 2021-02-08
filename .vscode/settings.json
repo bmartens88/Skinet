@@ -12,5 +12,7 @@
   "editor.insertSpaces": true,
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
-  "editor.fontSize": 12
+  "editor.fontSize": 12,
+  "workbench.editor.decorations.colors": true,
+  "workbench.editor.decorations.badges": true
 }
