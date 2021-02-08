@@ -17,6 +17,9 @@
     "humao.rest-client",
     "naumovs.theme-oceanicnext",
     "visualstudioexptteam.vscodeintellicode",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "kreativ-software.csharpextensions",
+    "josefpihrt-vscode.roslynator",
+    "alexcvzz.vscode-sqlite"
   ]
 }
